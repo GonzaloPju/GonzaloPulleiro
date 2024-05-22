@@ -1,6 +1,7 @@
 - 👋 Hola, soy @GonzaloPulleiro
 - 👀🧑‍💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), en IES San Clemente (Santiago de Compostela, A Coruña), en la modalidad a distancia.
 - 📫 Me puedes contactar en: gonzalopulleiro@hotmail.com
+- 👨‍🎓 LinkedIn [Gonzalo Pulleiro](https://www.linkedin.com/in/gonzalo-pulleiro/) 
 - 💫 Muchas gracias por visitar mi perfil en github!
 
 <!---
